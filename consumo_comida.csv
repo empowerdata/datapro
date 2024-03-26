@@ -1,0 +1,1431 @@
+pais,categoria_comida,consumo,emissao
+Argentina,suínos,10.51,37.2
+Argentina,aves,38.66,41.53
+Argentina,bovinos,55.48,1712.0
+Argentina,caprinos,1.56,54.63
+Argentina,peixes,4.36,6.96
+Argentina,ovos,11.39,10.46
+Argentina,laticínios,195.08,277.87
+Argentina,trigo,103.11,19.66
+Argentina,arroz,8.77,11.22
+Argentina,soja,0.0,0.0
+Argentina,nozes,0.49,0.87
+Australia,suínos,24.14,85.44
+Australia,aves,46.12,49.54
+Australia,bovinos,33.86,1044.85
+Australia,caprinos,9.87,345.65
+Australia,peixes,17.69,28.25
+Australia,ovos,8.51,7.82
+Australia,laticínios,234.49,334.01
+Australia,trigo,70.46,13.44
+Australia,arroz,11.03,14.12
+Australia,soja,0.19,0.09
+Australia,nozes,8.73,15.45
+Albania,suínos,10.88,38.51
+Albania,aves,13.23,14.21
+Albania,bovinos,22.5,694.3
+Albania,caprinos,15.32,536.5
+Albania,peixes,3.85,6.15
+Albania,ovos,12.45,11.44
+Albania,laticínios,303.72,432.62
+Albania,trigo,138.64,26.44
+Albania,arroz,7.78,9.96
+Albania,soja,0.0,0.0
+Albania,nozes,4.36,7.72
+Iceland,suínos,21.69,76.77
+Iceland,aves,26.87,28.86
+Iceland,bovinos,13.36,412.26
+Iceland,caprinos,21.12,739.62
+Iceland,peixes,74.41,118.81
+Iceland,ovos,8.24,7.57
+Iceland,laticínios,225.82,321.66
+Iceland,trigo,72.92,13.91
+Iceland,arroz,3.89,4.98
+Iceland,soja,0.11,0.05
+Iceland,nozes,3.88,6.87
+New Zealand,suínos,22.29,78.9
+New Zealand,aves,34.98,37.58
+New Zealand,bovinos,22.49,693.99
+New Zealand,caprinos,18.91,662.23
+New Zealand,peixes,20.36,32.51
+New Zealand,ovos,9.91,9.1
+New Zealand,laticínios,137.25,195.5
+New Zealand,trigo,76.91,14.67
+New Zealand,arroz,9.16,11.72
+New Zealand,soja,0.44,0.2
+New Zealand,nozes,8.22,14.55
+USA,suínos,27.64,97.83
+USA,aves,50.01,53.72
+USA,bovinos,36.24,1118.29
+USA,caprinos,0.43,15.06
+USA,peixes,12.35,19.72
+USA,ovos,14.58,13.39
+USA,laticínios,254.69,362.78
+USA,trigo,80.43,15.34
+USA,arroz,6.88,8.8
+USA,soja,0.04,0.02
+USA,nozes,7.86,13.91
+Uruguay,suínos,16.84,59.61
+Uruguay,aves,27.45,29.49
+Uruguay,bovinos,29.1,897.96
+Uruguay,caprinos,8.23,288.21
+Uruguay,peixes,6.53,10.43
+Uruguay,ovos,13.14,12.07
+Uruguay,laticínios,210.54,299.89
+Uruguay,trigo,109.31,20.85
+Uruguay,arroz,11.5,14.72
+Uruguay,soja,0.01,0.0
+Uruguay,nozes,0.95,1.68
+Luxembourg,suínos,43.58,154.25
+Luxembourg,aves,21.37,22.96
+Luxembourg,bovinos,29.88,922.03
+Luxembourg,caprinos,1.67,58.48
+Luxembourg,peixes,23.09,36.87
+Luxembourg,ovos,14.64,13.45
+Luxembourg,laticínios,255.3,363.65
+Luxembourg,trigo,103.2,19.68
+Luxembourg,arroz,4.2,5.37
+Luxembourg,soja,0.04,0.02
+Luxembourg,nozes,0.93,1.65
+Brazil,suínos,12.6,44.6
+Brazil,aves,45.0,48.34
+Brazil,bovinos,39.25,1211.17
+Brazil,caprinos,0.62,21.71
+Brazil,peixes,10.01,15.98
+Brazil,ovos,8.98,8.25
+Brazil,laticínios,149.28,212.63
+Brazil,trigo,53.0,10.11
+Brazil,arroz,32.13,41.12
+Brazil,soja,3.62,1.63
+Brazil,nozes,0.67,1.19
+Kazakhstan,suínos,10.36,36.67
+Kazakhstan,aves,18.38,19.74
+Kazakhstan,bovinos,23.38,721.46
+Kazakhstan,caprinos,9.56,334.79
+Kazakhstan,peixes,5.21,8.32
+Kazakhstan,ovos,8.29,7.62
+Kazakhstan,laticínios,288.12,410.4
+Kazakhstan,trigo,92.31,17.6
+Kazakhstan,arroz,7.32,9.37
+Kazakhstan,soja,0.03,0.01
+Kazakhstan,nozes,5.14,9.1
+Sweden,suínos,37.0,130.96
+Sweden,aves,16.64,17.87
+Sweden,bovinos,24.58,758.49
+Sweden,caprinos,1.41,49.38
+Sweden,peixes,23.86,38.1
+Sweden,ovos,13.37,12.28
+Sweden,laticínios,341.23,486.05
+Sweden,trigo,79.59,15.18
+Sweden,arroz,5.96,7.63
+Sweden,soja,0.13,0.06
+Sweden,nozes,6.23,11.03
+Bermuda,suínos,28.24,99.96
+Bermuda,aves,32.62,35.04
+Bermuda,bovinos,33.15,1022.94
+Bermuda,caprinos,2.71,94.9
+Bermuda,peixes,33.22,53.04
+Bermuda,ovos,14.92,13.71
+Bermuda,laticínios,95.56,136.12
+Bermuda,trigo,54.88,10.47
+Bermuda,arroz,5.38,6.88
+Bermuda,soja,0.22,0.1
+Bermuda,nozes,5.72,10.12
+Denmark,suínos,24.87,88.03
+Denmark,aves,26.75,28.73
+Denmark,bovinos,28.46,878.22
+Denmark,caprinos,0.92,32.22
+Denmark,peixes,16.49,26.33
+Denmark,ovos,15.35,14.1
+Denmark,laticínios,277.3,394.99
+Denmark,trigo,98.0,18.69
+Denmark,arroz,4.96,6.35
+Denmark,soja,0.03,0.01
+Denmark,nozes,5.94,10.51
+Finland,suínos,36.14,127.92
+Finland,aves,19.87,21.34
+Finland,bovinos,19.22,593.09
+Finland,caprinos,0.53,18.56
+Finland,peixes,33.8,53.97
+Finland,ovos,9.55,8.77
+Finland,laticínios,430.76,613.57
+Finland,trigo,81.99,15.64
+Finland,arroz,4.42,5.66
+Finland,soja,0.08,0.04
+Finland,nozes,3.43,6.07
+Ireland,suínos,32.4,114.68
+Ireland,aves,26.26,28.21
+Ireland,bovinos,22.35,689.67
+Ireland,caprinos,4.1,143.58
+Ireland,peixes,17.39,27.77
+Ireland,ovos,8.96,8.23
+Ireland,laticínios,291.86,415.73
+Ireland,trigo,107.98,20.59
+Ireland,arroz,3.0,3.84
+Ireland,soja,0.25,0.11
+Ireland,nozes,4.1,7.26
+Greece,suínos,28.31,100.2
+Greece,aves,15.74,16.91
+Greece,bovinos,16.1,496.81
+Greece,caprinos,12.47,436.7
+Greece,peixes,14.42,23.02
+Greece,ovos,10.13,9.31
+Greece,laticínios,255.26,363.59
+Greece,trigo,124.04,23.65
+Greece,arroz,6.64,8.5
+Greece,soja,0.02,0.01
+Greece,nozes,10.5,18.59
+France,suínos,33.05,116.98
+France,aves,22.93,24.63
+France,bovinos,23.81,734.73
+France,caprinos,3.28,114.87
+France,peixes,22.91,36.58
+France,ovos,13.13,12.06
+France,laticínios,241.31,343.72
+France,trigo,108.43,20.68
+France,arroz,4.88,6.24
+France,soja,0.05,0.02
+France,nozes,5.39,9.54
+Canada,suínos,22.81,80.74
+Canada,aves,36.68,39.4
+Canada,bovinos,30.25,933.45
+Canada,caprinos,0.97,33.97
+Canada,peixes,14.56,23.25
+Canada,ovos,12.95,11.9
+Canada,laticínios,187.77,267.46
+Canada,trigo,84.96,16.2
+Canada,arroz,12.65,16.19
+Canada,soja,0.94,0.42
+Canada,nozes,8.01,14.18
+Norway,suínos,23.51,83.21
+Norway,aves,21.01,22.57
+Norway,bovinos,19.83,611.91
+Norway,caprinos,5.34,187.01
+Norway,peixes,38.18,60.96
+Norway,ovos,11.41,10.48
+Norway,laticínios,261.34,372.25
+Norway,trigo,97.12,18.52
+Norway,arroz,4.36,5.58
+Norway,soja,0.11,0.05
+Norway,nozes,5.28,9.35
+Hong Kong SAR. China,suínos,67.11,237.54
+Hong Kong SAR. China,aves,54.86,58.93
+Hong Kong SAR. China,bovinos,25.82,796.75
+Hong Kong SAR. China,caprinos,2.22,77.74
+Hong Kong SAR. China,peixes,42.44,67.76
+Hong Kong SAR. China,ovos,14.5,13.32
+Hong Kong SAR. China,laticínios,105.85,150.77
+Hong Kong SAR. China,trigo,53.14,10.13
+Hong Kong SAR. China,arroz,43.48,55.64
+Hong Kong SAR. China,soja,2.79,1.26
+Hong Kong SAR. China,nozes,13.81,24.44
+French Polynesia,suínos,14.75,52.21
+French Polynesia,aves,49.55,53.23
+French Polynesia,bovinos,30.9,953.51
+French Polynesia,caprinos,2.83,99.11
+French Polynesia,peixes,38.95,62.19
+French Polynesia,ovos,8.75,8.04
+French Polynesia,laticínios,93.56,133.27
+French Polynesia,trigo,68.67,13.1
+French Polynesia,arroz,35.59,45.54
+French Polynesia,soja,0.77,0.35
+French Polynesia,nozes,2.34,4.14
+Israel,suínos,1.99,7.04
+Israel,aves,62.5,67.14
+Israel,bovinos,28.78,888.09
+Israel,caprinos,1.87,65.49
+Israel,peixes,22.18,35.41
+Israel,ovos,11.35,10.43
+Israel,laticínios,193.6,275.76
+Israel,trigo,110.86,21.14
+Israel,arroz,16.81,21.51
+Israel,soja,0.1,0.05
+Israel,nozes,7.71,13.65
+Switzerland,suínos,31.49,111.46
+Switzerland,aves,16.38,17.6
+Switzerland,bovinos,21.26,656.04
+Switzerland,caprinos,1.42,49.73
+Switzerland,peixes,13.48,21.52
+Switzerland,ovos,10.53,9.67
+Switzerland,laticínios,318.69,453.94
+Switzerland,trigo,89.51,17.07
+Switzerland,arroz,2.43,3.11
+Switzerland,soja,0.44,0.2
+Switzerland,nozes,9.27,16.41
+Netherlands,suínos,36.36,128.7
+Netherlands,aves,23.9,25.67
+Netherlands,bovinos,17.67,545.26
+Netherlands,caprinos,0.94,32.92
+Netherlands,peixes,18.64,29.76
+Netherlands,ovos,14.03,12.89
+Netherlands,laticínios,341.47,486.39
+Netherlands,trigo,70.17,13.38
+Netherlands,arroz,2.93,3.75
+Netherlands,soja,0.12,0.05
+Netherlands,nozes,7.94,14.05
+Kuwait,suínos,0.0,0.0
+Kuwait,aves,53.61,57.59
+Kuwait,bovinos,13.03,402.08
+Kuwait,caprinos,15.61,546.66
+Kuwait,peixes,11.99,19.14
+Kuwait,ovos,12.6,11.57
+Kuwait,laticínios,157.66,224.57
+Kuwait,trigo,96.76,18.45
+Kuwait,arroz,43.83,56.09
+Kuwait,soja,0.06,0.03
+Kuwait,nozes,5.23,9.26
+United Kingdom,suínos,25.79,91.28
+United Kingdom,aves,31.55,33.89
+United Kingdom,bovinos,18.12,559.15
+United Kingdom,caprinos,4.49,157.24
+United Kingdom,peixes,15.49,24.73
+United Kingdom,ovos,11.08,10.18
+United Kingdom,laticínios,232.2,330.75
+United Kingdom,trigo,98.63,18.81
+United Kingdom,arroz,6.39,8.18
+United Kingdom,soja,0.05,0.02
+United Kingdom,nozes,4.18,7.4
+Austria,suínos,52.56,186.04
+Austria,aves,18.61,19.99
+Austria,bovinos,17.14,528.9
+Austria,caprinos,1.16,40.62
+Austria,peixes,12.16,19.42
+Austria,ovos,14.68,13.49
+Austria,laticínios,258.09,367.62
+Austria,trigo,81.1,15.47
+Austria,arroz,3.7,4.73
+Austria,soja,2.06,0.93
+Austria,nozes,7.88,13.95
+Oman,suínos,0.01,0.04
+Oman,aves,31.51,33.85
+Oman,bovinos,15.1,465.95
+Oman,caprinos,12.87,450.71
+Oman,peixes,21.56,34.42
+Oman,ovos,7.8,7.17
+Oman,laticínios,152.28,216.91
+Oman,trigo,64.1,12.22
+Oman,arroz,56.55,72.37
+Oman,soja,0.21,0.09
+Oman,nozes,1.68,2.97
+Italy,suínos,40.28,142.57
+Italy,aves,18.61,19.99
+Italy,bovinos,18.6,573.96
+Italy,caprinos,0.92,32.22
+Italy,peixes,15.6,24.91
+Italy,ovos,13.34,12.25
+Italy,laticínios,246.88,351.66
+Italy,trigo,146.37,27.91
+Italy,arroz,5.74,7.35
+Italy,soja,0.01,0.0
+Italy,nozes,7.63,13.51
+Bahamas,suínos,32.74,115.88
+Bahamas,aves,45.74,49.13
+Bahamas,bovinos,19.92,614.69
+Bahamas,caprinos,5.22,182.8
+Bahamas,peixes,18.8,30.02
+Bahamas,ovos,6.2,5.7
+Bahamas,laticínios,104.76,149.22
+Bahamas,trigo,39.98,7.62
+Bahamas,arroz,23.97,30.67
+Bahamas,soja,0.09,0.04
+Bahamas,nozes,4.03,7.13
+Portugal,suínos,37.91,134.18
+Portugal,aves,30.14,32.38
+Portugal,bovinos,16.45,507.61
+Portugal,caprinos,2.38,83.35
+Portugal,peixes,45.39,72.47
+Portugal,ovos,9.05,8.31
+Portugal,laticínios,205.04,292.06
+Portugal,trigo,94.3,17.98
+Portugal,arroz,14.86,19.02
+Portugal,soja,0.01,0.0
+Portugal,nozes,3.91,6.92
+Malta,suínos,34.24,121.19
+Malta,aves,26.4,28.36
+Malta,bovinos,19.22,593.09
+Malta,caprinos,1.19,41.67
+Malta,peixes,24.58,39.25
+Malta,ovos,11.64,10.69
+Malta,laticínios,190.06,270.72
+Malta,trigo,139.58,26.62
+Malta,arroz,4.96,6.35
+Malta,soja,0.05,0.02
+Malta,nozes,5.62,9.95
+Armenia,suínos,9.67,34.23
+Armenia,aves,13.35,14.34
+Armenia,bovinos,19.66,606.67
+Armenia,caprinos,3.02,105.76
+Armenia,peixes,4.36,6.96
+Armenia,ovos,11.69,10.74
+Armenia,laticínios,209.03,297.74
+Armenia,trigo,130.6,24.91
+Armenia,arroz,3.18,4.07
+Armenia,soja,0.0,0.0
+Armenia,nozes,2.55,4.51
+Slovenia,suínos,28.19,99.78
+Slovenia,aves,23.46,25.2
+Slovenia,bovinos,18.43,568.71
+Slovenia,caprinos,0.79,27.67
+Slovenia,peixes,7.76,12.39
+Slovenia,ovos,9.36,8.6
+Slovenia,laticínios,235.01,334.75
+Slovenia,trigo,103.43,19.72
+Slovenia,arroz,3.95,5.05
+Slovenia,soja,0.75,0.34
+Slovenia,nozes,5.28,9.35
+Chile,suínos,24.68,87.35
+Chile,aves,36.52,39.23
+Chile,bovinos,23.86,736.27
+Chile,caprinos,0.42,14.71
+Chile,peixes,7.65,12.21
+Chile,ovos,9.97,9.16
+Chile,laticínios,116.11,165.39
+Chile,trigo,104.74,19.97
+Chile,arroz,8.85,11.33
+Chile,soja,0.04,0.02
+Chile,nozes,2.22,3.93
+Venezuela,suínos,7.23,25.59
+Venezuela,aves,39.28,42.19
+Venezuela,bovinos,25.89,798.91
+Venezuela,caprinos,0.32,11.21
+Venezuela,peixes,8.34,13.32
+Venezuela,ovos,5.63,5.17
+Venezuela,laticínios,117.79,167.78
+Venezuela,trigo,49.17,9.38
+Venezuela,arroz,23.39,29.93
+Venezuela,soja,0.0,0.0
+Venezuela,nozes,0.35,0.62
+Belgium,suínos,38.65,136.8
+Belgium,aves,12.2,13.11
+Belgium,bovinos,15.63,482.31
+Belgium,caprinos,1.32,46.23
+Belgium,peixes,18.97,30.29
+Belgium,ovos,12.59,11.57
+Belgium,laticínios,236.19,336.43
+Belgium,trigo,111.91,21.34
+Belgium,arroz,8.61,11.02
+Belgium,soja,0.07,0.03
+Belgium,nozes,7.32,12.96
+Germany,suínos,51.81,183.38
+Germany,aves,17.75,19.07
+Germany,bovinos,13.16,406.09
+Germany,caprinos,0.73,25.56
+Germany,peixes,11.16,17.82
+Germany,ovos,12.2,11.21
+Germany,laticínios,258.7,368.49
+Germany,trigo,83.41,15.91
+Germany,arroz,3.34,4.27
+Germany,soja,0.88,0.4
+Germany,nozes,7.96,14.09
+Russia,suínos,25.66,90.82
+Russia,aves,27.5,29.54
+Russia,bovinos,16.98,523.97
+Russia,caprinos,1.4,49.03
+Russia,peixes,20.82,33.24
+Russia,ovos,15.43,14.17
+Russia,laticínios,163.57,232.99
+Russia,trigo,130.99,24.98
+Russia,arroz,4.71,6.03
+Russia,soja,0.05,0.02
+Russia,nozes,1.62,2.87
+Croatia,suínos,42.79,151.46
+Croatia,aves,8.52,9.15
+Croatia,bovinos,12.41,382.95
+Croatia,caprinos,1.71,59.88
+Croatia,peixes,15.83,25.28
+Croatia,ovos,8.48,7.79
+Croatia,laticínios,231.02,329.06
+Croatia,trigo,106.59,20.33
+Croatia,arroz,2.64,3.38
+Croatia,soja,0.0,0.0
+Croatia,nozes,3.88,6.87
+Belarus,suínos,40.37,142.89
+Belarus,aves,31.29,33.61
+Belarus,bovinos,17.11,527.98
+Belarus,caprinos,0.11,3.85
+Belarus,peixes,15.75,25.15
+Belarus,ovos,15.86,14.57
+Belarus,laticínios,133.73,190.49
+Belarus,trigo,60.48,11.53
+Belarus,arroz,3.17,4.06
+Belarus,soja,0.3,0.14
+Belarus,nozes,3.36,5.95
+Spain,suínos,48.92,173.15
+Spain,aves,28.63,30.75
+Spain,bovinos,12.15,374.92
+Spain,caprinos,2.16,75.64
+Spain,peixes,28.83,46.03
+Spain,ovos,13.32,12.24
+Spain,laticínios,164.29,234.01
+Spain,trigo,93.88,17.9
+Spain,arroz,8.32,10.65
+Spain,soja,0.02,0.01
+Spain,nozes,7.44,13.17
+Paraguay,suínos,26.24,92.88
+Paraguay,aves,6.39,6.86
+Paraguay,bovinos,19.81,611.29
+Paraguay,caprinos,0.56,19.61
+Paraguay,peixes,3.6,5.75
+Paraguay,ovos,18.83,17.3
+Paraguay,laticínios,75.72,107.86
+Paraguay,trigo,31.51,6.01
+Paraguay,arroz,4.91,6.28
+Paraguay,soja,0.0,0.0
+Paraguay,nozes,1.6,2.83
+New Caledonia,suínos,19.9,70.44
+New Caledonia,aves,44.36,47.65
+New Caledonia,bovinos,16.07,495.89
+New Caledonia,caprinos,1.95,68.29
+New Caledonia,peixes,19.38,30.94
+New Caledonia,ovos,8.85,8.13
+New Caledonia,laticínios,108.0,153.84
+New Caledonia,trigo,81.75,15.59
+New Caledonia,arroz,17.47,22.36
+New Caledonia,soja,0.55,0.25
+New Caledonia,nozes,2.96,5.24
+South Africa,suínos,4.16,14.72
+South Africa,aves,37.57,40.36
+South Africa,bovinos,18.03,556.37
+South Africa,caprinos,4.28,149.89
+South Africa,peixes,5.56,8.88
+South Africa,ovos,7.21,6.62
+South Africa,laticínios,55.75,79.41
+South Africa,trigo,60.13,11.47
+South Africa,arroz,17.41,22.28
+South Africa,soja,1.27,0.57
+South Africa,nozes,1.04,1.84
+Barbados,suínos,8.3,29.38
+Barbados,aves,42.62,45.78
+Barbados,bovinos,13.13,405.16
+Barbados,caprinos,4.08,142.88
+Barbados,peixes,37.41,59.73
+Barbados,ovos,9.61,8.83
+Barbados,laticínios,110.48,157.37
+Barbados,trigo,65.71,12.53
+Barbados,arroz,15.66,20.04
+Barbados,soja,0.1,0.05
+Barbados,nozes,4.16,7.36
+Lithuania,suínos,45.67,161.65
+Lithuania,aves,26.84,28.83
+Lithuania,bovinos,4.49,138.55
+Lithuania,caprinos,0.24,8.4
+Lithuania,peixes,42.39,67.68
+Lithuania,ovos,13.11,12.04
+Lithuania,laticínios,295.46,420.85
+Lithuania,trigo,121.59,23.19
+Lithuania,arroz,3.07,3.93
+Lithuania,soja,0.02,0.01
+Lithuania,nozes,2.13,3.77
+Turkey,suínos,0.01,0.04
+Turkey,aves,18.78,20.17
+Turkey,bovinos,11.64,359.19
+Turkey,caprinos,4.68,163.89
+Turkey,peixes,5.58,8.91
+Turkey,ovos,8.2,7.53
+Turkey,laticínios,193.94,276.25
+Turkey,trigo,169.96,32.41
+Turkey,arroz,10.74,13.74
+Turkey,soja,1.71,0.77
+Turkey,nozes,7.97,14.11
+Estonia,suínos,29.68,105.05
+Estonia,aves,21.11,22.68
+Estonia,bovinos,7.19,221.87
+Estonia,caprinos,0.44,15.41
+Estonia,peixes,12.78,20.41
+Estonia,ovos,12.66,11.63
+Estonia,laticínios,284.85,405.74
+Estonia,trigo,89.36,17.04
+Estonia,arroz,2.56,3.28
+Estonia,soja,0.04,0.02
+Estonia,nozes,4.29,7.59
+Mexico,suínos,15.23,53.91
+Mexico,aves,30.12,32.35
+Mexico,bovinos,15.33,473.05
+Mexico,caprinos,0.89,31.17
+Mexico,peixes,7.56,12.07
+Mexico,ovos,18.34,16.85
+Mexico,laticínios,111.87,159.35
+Mexico,trigo,35.21,6.71
+Mexico,arroz,5.64,7.22
+Mexico,soja,0.02,0.01
+Mexico,nozes,2.51,4.44
+Costa Rica,suínos,10.28,36.39
+Costa Rica,aves,24.47,26.29
+Costa Rica,bovinos,15.23,469.97
+Costa Rica,caprinos,0.02,0.7
+Costa Rica,peixes,11.32,18.07
+Costa Rica,ovos,10.55,9.69
+Costa Rica,laticínios,183.28,261.06
+Costa Rica,trigo,39.31,7.5
+Costa Rica,arroz,45.69,58.47
+Costa Rica,soja,1.54,0.69
+Costa Rica,nozes,1.38,2.44
+Bolivia,suínos,8.89,31.47
+Bolivia,aves,34.31,36.86
+Bolivia,bovinos,19.78,610.37
+Bolivia,caprinos,1.72,60.23
+Bolivia,peixes,2.18,3.48
+Bolivia,ovos,5.18,4.76
+Bolivia,laticínios,46.04,65.58
+Bolivia,trigo,49.99,9.53
+Bolivia,arroz,26.99,34.54
+Bolivia,soja,0.01,0.0
+Bolivia,nozes,9.16,16.21
+Ecuador,suínos,14.44,51.11
+Ecuador,aves,21.85,23.47
+Ecuador,bovinos,16.61,512.55
+Ecuador,caprinos,0.44,15.41
+Ecuador,peixes,5.17,8.25
+Ecuador,ovos,8.01,7.36
+Ecuador,laticínios,139.6,198.85
+Ecuador,trigo,39.19,7.47
+Ecuador,arroz,45.07,57.68
+Ecuador,soja,0.0,0.0
+Ecuador,nozes,0.98,1.73
+Panama,suínos,13.48,47.71
+Panama,aves,30.81,33.1
+Panama,bovinos,20.4,629.5
+Panama,caprinos,0.01,0.35
+Panama,peixes,11.05,17.64
+Panama,ovos,4.53,4.16
+Panama,laticínios,70.29,100.12
+Panama,trigo,38.96,7.43
+Panama,arroz,66.42,85.0
+Panama,soja,3.53,1.59
+Panama,nozes,1.05,1.86
+Czech Republic,suínos,41.17,145.72
+Czech Republic,aves,19.09,20.51
+Czech Republic,bovinos,8.15,251.49
+Czech Republic,caprinos,0.34,11.91
+Czech Republic,peixes,8.25,13.17
+Czech Republic,ovos,11.66,10.71
+Czech Republic,laticínios,195.2,278.04
+Czech Republic,trigo,92.67,17.67
+Czech Republic,arroz,4.79,6.13
+Czech Republic,soja,0.82,0.37
+Czech Republic,nozes,2.47,4.37
+Romania,suínos,25.31,89.58
+Romania,aves,15.38,16.52
+Romania,bovinos,4.78,147.5
+Romania,caprinos,3.41,119.42
+Romania,peixes,6.07,9.69
+Romania,ovos,12.94,11.89
+Romania,laticínios,238.33,339.48
+Romania,trigo,134.87,25.72
+Romania,arroz,2.59,3.31
+Romania,soja,0.01,0.0
+Romania,nozes,1.8,3.19
+Colombia,suínos,6.51,23.04
+Colombia,aves,27.57,29.62
+Colombia,bovinos,16.36,504.84
+Colombia,caprinos,0.21,7.35
+Colombia,peixes,6.01,9.6
+Colombia,ovos,10.78,9.9
+Colombia,laticínios,108.47,154.5
+Colombia,trigo,29.79,5.68
+Colombia,arroz,28.02,35.86
+Colombia,soja,0.89,0.4
+Colombia,nozes,0.42,0.74
+Maldives,suínos,1.22,4.32
+Maldives,aves,18.47,19.84
+Maldives,bovinos,9.44,291.3
+Maldives,caprinos,0.7,24.51
+Maldives,peixes,179.71,286.94
+Maldives,ovos,10.79,9.91
+Maldives,laticínios,111.47,158.78
+Maldives,trigo,77.77,14.83
+Maldives,arroz,50.73,64.92
+Maldives,soja,0.2,0.09
+Maldives,nozes,15.83,28.02
+Cyprus,suínos,38.38,135.85
+Cyprus,aves,24.45,26.26
+Cyprus,bovinos,5.79,178.67
+Cyprus,caprinos,5.05,176.85
+Cyprus,peixes,14.86,23.73
+Cyprus,ovos,8.98,8.25
+Cyprus,laticínios,113.31,161.4
+Cyprus,trigo,83.25,15.88
+Cyprus,arroz,4.94,6.32
+Cyprus,soja,0.04,0.02
+Cyprus,nozes,4.6,8.14
+Serbia,suínos,32.04,113.41
+Serbia,aves,10.64,11.43
+Serbia,bovinos,7.05,217.55
+Serbia,caprinos,3.56,124.67
+Serbia,peixes,5.59,8.93
+Serbia,ovos,8.89,8.17
+Serbia,laticínios,148.53,211.57
+Serbia,trigo,105.88,20.19
+Serbia,arroz,1.22,1.56
+Serbia,soja,0.0,0.0
+Serbia,nozes,3.31,5.86
+United Arab Emirates,suínos,0.0,0.0
+United Arab Emirates,aves,41.04,44.09
+United Arab Emirates,bovinos,5.64,174.04
+United Arab Emirates,caprinos,9.08,317.98
+United Arab Emirates,peixes,20.41,32.59
+United Arab Emirates,ovos,8.23,7.56
+United Arab Emirates,laticínios,132.66,188.96
+United Arab Emirates,trigo,101.29,19.32
+United Arab Emirates,arroz,56.25,71.98
+United Arab Emirates,soja,0.08,0.04
+United Arab Emirates,nozes,23.03,40.76
+Algeria,suínos,0.0,0.0
+Algeria,aves,7.42,7.97
+Algeria,bovinos,5.6,172.8
+Algeria,caprinos,7.69,269.3
+Algeria,peixes,3.74,5.97
+Algeria,ovos,8.06,7.4
+Algeria,laticínios,141.53,201.6
+Algeria,trigo,185.42,35.36
+Algeria,arroz,2.97,3.8
+Algeria,soja,0.0,0.0
+Algeria,nozes,2.08,3.68
+Ukraine,suínos,20.56,72.77
+Ukraine,aves,24.23,26.03
+Ukraine,bovinos,8.96,276.49
+Ukraine,caprinos,0.41,14.36
+Ukraine,peixes,15.23,24.32
+Ukraine,ovos,18.01,16.54
+Ukraine,laticínios,145.03,206.58
+Ukraine,trigo,105.15,20.05
+Ukraine,arroz,3.0,3.84
+Ukraine,soja,0.02,0.01
+Ukraine,nozes,2.68,4.74
+Pakistan,suínos,0.0,0.0
+Pakistan,aves,5.01,5.38
+Pakistan,bovinos,8.82,272.17
+Pakistan,caprinos,2.46,86.15
+Pakistan,peixes,1.87,2.99
+Pakistan,ovos,2.95,2.71
+Pakistan,laticínios,183.13,260.85
+Pakistan,trigo,113.63,21.67
+Pakistan,arroz,12.25,15.68
+Pakistan,soja,0.0,0.0
+Pakistan,nozes,0.83,1.47
+Swaziland,suínos,2.43,8.6
+Swaziland,aves,6.18,6.64
+Swaziland,bovinos,15.1,465.95
+Swaziland,caprinos,1.94,67.94
+Swaziland,peixes,1.26,2.01
+Swaziland,ovos,1.5,1.38
+Swaziland,laticínios,56.6,80.62
+Swaziland,trigo,37.15,7.08
+Swaziland,arroz,21.15,27.07
+Swaziland,soja,0.55,0.25
+Swaziland,nozes,6.44,11.4
+Latvia,suínos,34.96,123.74
+Latvia,aves,20.53,22.05
+Latvia,bovinos,5.11,157.68
+Latvia,caprinos,0.34,11.91
+Latvia,peixes,21.3,34.01
+Latvia,ovos,14.03,12.89
+Latvia,laticínios,174.11,248.0
+Latvia,trigo,72.13,13.76
+Latvia,arroz,2.21,2.83
+Latvia,soja,0.04,0.02
+Latvia,nozes,3.78,6.69
+Bosnia and Herzegovina,suínos,9.38,33.2
+Bosnia and Herzegovina,aves,13.17,14.15
+Bosnia and Herzegovina,bovinos,9.12,281.42
+Bosnia and Herzegovina,caprinos,0.47,16.46
+Bosnia and Herzegovina,peixes,4.06,6.48
+Bosnia and Herzegovina,ovos,4.49,4.12
+Bosnia and Herzegovina,laticínios,174.03,247.89
+Bosnia and Herzegovina,trigo,93.56,17.84
+Bosnia and Herzegovina,arroz,1.88,2.41
+Bosnia and Herzegovina,soja,1.48,0.67
+Bosnia and Herzegovina,nozes,2.0,3.54
+Fiji,suínos,4.31,15.26
+Fiji,aves,20.26,21.76
+Fiji,bovinos,8.96,276.49
+Fiji,caprinos,5.9,206.62
+Fiji,peixes,35.01,55.9
+Fiji,ovos,6.44,5.92
+Fiji,laticínios,40.2,57.26
+Fiji,trigo,84.22,16.06
+Fiji,arroz,45.62,58.38
+Fiji,soja,0.3,0.14
+Fiji,nozes,1.3,2.3
+South Korea,suínos,32.76,115.95
+South Korea,aves,16.0,17.19
+South Korea,bovinos,14.53,448.37
+South Korea,caprinos,0.14,4.9
+South Korea,peixes,33.09,52.83
+South Korea,ovos,11.24,10.33
+South Korea,laticínios,29.05,41.38
+South Korea,trigo,50.84,9.7
+South Korea,arroz,85.18,109.0
+South Korea,soja,8.35,3.76
+South Korea,nozes,4.88,8.64
+Poland,suínos,46.19,163.49
+Poland,aves,27.41,29.44
+Poland,bovinos,2.32,71.59
+Poland,caprinos,0.02,0.7
+Poland,peixes,10.49,16.75
+Poland,ovos,7.53,6.92
+Poland,laticínios,205.39,292.56
+Poland,trigo,108.83,20.75
+Poland,arroz,0.95,1.22
+Poland,soja,0.06,0.03
+Poland,nozes,2.23,3.95
+Saudi Arabia,suínos,0.0,0.0
+Saudi Arabia,aves,49.05,52.69
+Saudi Arabia,bovinos,6.45,199.03
+Saudi Arabia,caprinos,6.54,229.03
+Saudi Arabia,peixes,11.99,19.14
+Saudi Arabia,ovos,5.37,4.93
+Saudi Arabia,laticínios,83.65,119.15
+Saudi Arabia,trigo,89.47,17.06
+Saudi Arabia,arroz,36.02,46.09
+Saudi Arabia,soja,0.05,0.02
+Saudi Arabia,nozes,3.23,5.72
+Botswana,suínos,0.74,2.62
+Botswana,aves,5.33,5.73
+Botswana,bovinos,7.85,242.23
+Botswana,caprinos,3.76,131.67
+Botswana,peixes,3.98,6.35
+Botswana,ovos,1.95,1.79
+Botswana,laticínios,117.74,167.71
+Botswana,trigo,38.2,7.28
+Botswana,arroz,7.06,9.03
+Botswana,soja,1.16,0.52
+Botswana,nozes,1.08,1.91
+Macedonia,suínos,10.35,36.63
+Macedonia,aves,18.77,20.16
+Macedonia,bovinos,7.69,237.3
+Macedonia,caprinos,0.94,32.92
+Macedonia,peixes,5.47,8.73
+Macedonia,ovos,6.38,5.86
+Macedonia,laticínios,157.93,224.96
+Macedonia,trigo,104.8,19.99
+Macedonia,arroz,2.81,3.6
+Macedonia,soja,0.46,0.21
+Macedonia,nozes,5.87,10.39
+Hungary,suínos,34.93,123.63
+Hungary,aves,23.78,25.54
+Hungary,bovinos,4.96,153.06
+Hungary,caprinos,0.11,3.85
+Hungary,peixes,4.93,7.87
+Hungary,ovos,12.45,11.44
+Hungary,laticínios,159.05,226.55
+Hungary,trigo,109.98,20.97
+Hungary,arroz,2.15,2.75
+Hungary,soja,0.01,0.0
+Hungary,nozes,0.64,1.13
+Trinidad and Tobago,suínos,8.92,31.57
+Trinidad and Tobago,aves,58.27,62.59
+Trinidad and Tobago,bovinos,6.13,189.16
+Trinidad and Tobago,caprinos,2.79,97.71
+Trinidad and Tobago,peixes,20.54,32.8
+Trinidad and Tobago,ovos,4.2,3.86
+Trinidad and Tobago,laticínios,103.8,147.85
+Trinidad and Tobago,trigo,90.17,17.2
+Trinidad and Tobago,arroz,16.38,20.96
+Trinidad and Tobago,soja,0.04,0.02
+Trinidad and Tobago,nozes,3.78,6.69
+Tunisia,suínos,0.0,0.0
+Tunisia,aves,18.5,19.87
+Tunisia,bovinos,5.53,170.64
+Tunisia,caprinos,5.34,187.01
+Tunisia,peixes,12.63,20.17
+Tunisia,ovos,7.67,7.05
+Tunisia,laticínios,114.47,163.05
+Tunisia,trigo,197.5,37.66
+Tunisia,arroz,1.07,1.37
+Tunisia,soja,1.88,0.85
+Tunisia,nozes,6.34,11.22
+Egypt,suínos,0.02,0.07
+Egypt,aves,14.43,15.5
+Egypt,bovinos,12.88,397.45
+Egypt,caprinos,1.58,55.33
+Egypt,peixes,21.46,34.26
+Egypt,ovos,4.59,4.22
+Egypt,laticínios,59.46,84.69
+Egypt,trigo,146.83,28.0
+Egypt,arroz,39.77,50.89
+Egypt,soja,0.64,0.29
+Egypt,nozes,1.82,3.22
+Mauritius,suínos,4.08,14.44
+Mauritius,aves,38.51,41.37
+Mauritius,bovinos,5.99,184.84
+Mauritius,caprinos,4.08,142.88
+Mauritius,peixes,19.66,31.39
+Mauritius,ovos,6.32,5.81
+Mauritius,laticínios,117.27,167.04
+Mauritius,trigo,114.02,21.74
+Mauritius,arroz,45.56,58.3
+Mauritius,soja,0.3,0.14
+Mauritius,nozes,2.33,4.12
+Bulgaria,suínos,26.26,92.95
+Bulgaria,aves,20.68,22.21
+Bulgaria,bovinos,3.84,118.49
+Bulgaria,caprinos,1.63,57.08
+Bulgaria,peixes,6.24,9.96
+Bulgaria,ovos,8.36,7.68
+Bulgaria,laticínios,155.71,221.79
+Bulgaria,trigo,121.17,23.11
+Bulgaria,arroz,2.24,2.87
+Bulgaria,soja,0.04,0.02
+Bulgaria,nozes,2.26,4.0
+Morocco,suínos,0.01,0.04
+Morocco,aves,20.77,22.31
+Morocco,bovinos,8.04,248.1
+Morocco,caprinos,4.36,152.69
+Morocco,peixes,17.44,27.85
+Morocco,ovos,6.68,6.14
+Morocco,laticínios,54.68,77.89
+Morocco,trigo,179.7,34.27
+Morocco,arroz,1.1,1.41
+Morocco,soja,0.0,0.0
+Morocco,nozes,3.23,5.72
+Slovakia,suínos,31.78,112.49
+Slovakia,aves,15.13,16.25
+Slovakia,bovinos,5.19,160.15
+Slovakia,caprinos,0.16,5.6
+Slovakia,peixes,8.39,13.4
+Slovakia,ovos,16.05,14.74
+Slovakia,laticínios,143.14,203.89
+Slovakia,trigo,123.62,23.57
+Slovakia,arroz,2.88,3.69
+Slovakia,soja,0.02,0.01
+Slovakia,nozes,3.7,6.55
+Niger,suínos,0.09,0.32
+Niger,aves,1.08,1.16
+Niger,bovinos,8.97,276.8
+Niger,caprinos,4.17,146.03
+Niger,peixes,2.7,4.31
+Niger,ovos,0.3,0.28
+Niger,laticínios,58.92,83.93
+Niger,trigo,4.79,0.91
+Niger,arroz,13.17,16.85
+Niger,soja,0.0,0.0
+Niger,nozes,6.95,12.3
+Kenya,suínos,0.29,1.03
+Kenya,aves,0.47,0.5
+Kenya,bovinos,9.54,294.38
+Kenya,caprinos,1.86,65.14
+Kenya,peixes,4.27,6.82
+Kenya,ovos,1.84,1.69
+Kenya,laticínios,94.86,135.12
+Kenya,trigo,34.65,6.61
+Kenya,arroz,12.94,16.56
+Kenya,soja,0.2,0.09
+Kenya,nozes,1.64,2.9
+Jordan,suínos,0.02,0.07
+Jordan,aves,33.39,35.87
+Jordan,bovinos,5.61,173.11
+Jordan,caprinos,5.68,198.91
+Jordan,peixes,5.13,8.19
+Jordan,ovos,3.92,3.6
+Jordan,laticínios,77.68,110.65
+Jordan,trigo,136.74,26.08
+Jordan,arroz,19.67,25.17
+Jordan,soja,0.02,0.01
+Jordan,nozes,3.56,6.3
+Japan,suínos,20.62,72.98
+Japan,aves,19.42,20.86
+Japan,bovinos,9.15,282.35
+Japan,caprinos,0.14,4.9
+Japan,peixes,31.1,49.66
+Japan,ovos,19.15,17.59
+Japan,laticínios,72.06,102.64
+Japan,trigo,45.04,8.59
+Japan,arroz,59.85,76.59
+Japan,soja,7.34,3.3
+Japan,nozes,2.59,4.58
+Georgia,suínos,8.93,31.61
+Georgia,aves,12.28,13.19
+Georgia,bovinos,6.04,186.38
+Georgia,caprinos,0.63,22.06
+Georgia,peixes,10.42,16.64
+Georgia,ovos,6.12,5.62
+Georgia,laticínios,149.26,212.61
+Georgia,trigo,163.43,31.17
+Georgia,arroz,2.64,3.38
+Georgia,soja,0.0,0.0
+Georgia,nozes,2.47,4.37
+Grenada,suínos,11.52,40.78
+Grenada,aves,43.51,46.74
+Grenada,bovinos,3.46,106.77
+Grenada,caprinos,1.25,43.77
+Grenada,peixes,27.95,44.63
+Grenada,ovos,10.34,9.5
+Grenada,laticínios,86.88,123.75
+Grenada,trigo,59.59,11.36
+Grenada,arroz,9.56,12.23
+Grenada,soja,0.01,0.0
+Grenada,nozes,0.18,0.32
+El Salvador,suínos,3.23,11.43
+El Salvador,aves,19.84,21.31
+El Salvador,bovinos,5.95,183.6
+El Salvador,caprinos,0.02,0.7
+El Salvador,peixes,6.25,9.98
+El Salvador,ovos,9.51,8.74
+El Salvador,laticínios,124.34,177.11
+El Salvador,trigo,28.19,5.38
+El Salvador,arroz,10.53,13.48
+El Salvador,soja,0.8,0.36
+El Salvador,nozes,1.1,1.95
+Cuba,suínos,19.82,70.15
+Cuba,aves,20.15,21.65
+Cuba,bovinos,6.39,197.18
+Cuba,caprinos,1.24,43.42
+Cuba,peixes,4.76,7.6
+Cuba,ovos,9.82,9.02
+Cuba,laticínios,99.94,142.35
+Cuba,trigo,54.62,10.42
+Cuba,arroz,67.7,86.64
+Cuba,soja,6.34,2.85
+Cuba,nozes,0.23,0.41
+China,suínos,38.43,136.02
+China,aves,13.2,14.18
+China,bovinos,5.12,157.99
+China,caprinos,3.13,109.61
+China,peixes,21.01,33.55
+China,ovos,18.76,17.23
+China,laticínios,32.66,46.52
+China,trigo,63.36,12.08
+China,arroz,78.18,100.05
+China,soja,3.66,1.65
+China,nozes,6.39,11.31
+Honduras,suínos,6.48,22.94
+Honduras,aves,20.29,21.8
+Honduras,bovinos,7.19,221.87
+Honduras,caprinos,0.04,1.4
+Honduras,peixes,2.7,4.31
+Honduras,ovos,5.19,4.77
+Honduras,laticínios,91.33,130.09
+Honduras,trigo,37.36,7.12
+Honduras,arroz,14.42,18.45
+Honduras,soja,0.01,0.0
+Honduras,nozes,0.75,1.33
+Taiwan. ROC,suínos,39.37,139.35
+Taiwan. ROC,aves,32.13,34.51
+Taiwan. ROC,bovinos,5.21,160.77
+Taiwan. ROC,caprinos,0.92,32.22
+Taiwan. ROC,peixes,18.29,29.2
+Taiwan. ROC,ovos,13.08,12.02
+Taiwan. ROC,laticínios,41.72,59.43
+Taiwan. ROC,trigo,50.92,9.71
+Taiwan. ROC,arroz,45.85,58.67
+Taiwan. ROC,soja,16.95,7.63
+Taiwan. ROC,nozes,9.06,16.04
+Angola,suínos,8.89,31.47
+Angola,aves,17.33,18.62
+Angola,bovinos,8.42,259.82
+Angola,caprinos,1.08,37.82
+Angola,peixes,15.24,24.33
+Angola,ovos,1.11,1.02
+Angola,laticínios,12.3,17.52
+Angola,trigo,40.72,7.77
+Angola,arroz,8.12,10.39
+Angola,soja,0.52,0.23
+Angola,nozes,2.26,4.0
+Jamaica,suínos,3.99,14.12
+Jamaica,aves,52.51,56.41
+Jamaica,bovinos,3.97,122.51
+Jamaica,caprinos,1.26,44.13
+Jamaica,peixes,21.95,35.05
+Jamaica,ovos,2.27,2.09
+Jamaica,laticínios,91.13,129.81
+Jamaica,trigo,70.67,13.48
+Jamaica,arroz,23.45,30.01
+Jamaica,soja,0.0,0.0
+Jamaica,nozes,1.82,3.22
+Namibia,suínos,4.21,14.9
+Namibia,aves,12.19,13.09
+Namibia,bovinos,3.75,115.72
+Namibia,caprinos,2.27,79.5
+Namibia,peixes,10.7,17.08
+Namibia,ovos,1.63,1.5
+Namibia,laticínios,73.05,104.05
+Namibia,trigo,36.26,6.91
+Namibia,arroz,6.31,8.07
+Namibia,soja,0.07,0.03
+Namibia,nozes,0.71,1.26
+Belize,suínos,16.8,59.46
+Belize,aves,28.31,30.41
+Belize,bovinos,4.86,149.97
+Belize,caprinos,0.14,4.9
+Belize,peixes,7.57,12.09
+Belize,ovos,4.85,4.46
+Belize,laticínios,80.3,114.38
+Belize,trigo,54.06,10.31
+Belize,arroz,28.42,36.37
+Belize,soja,1.88,0.85
+Belize,nozes,5.58,9.88
+Malaysia,suínos,7.76,27.47
+Malaysia,aves,41.01,44.05
+Malaysia,bovinos,6.52,201.19
+Malaysia,caprinos,0.94,32.92
+Malaysia,peixes,49.43,78.92
+Malaysia,ovos,16.57,15.22
+Malaysia,laticínios,25.28,36.01
+Malaysia,trigo,51.04,9.73
+Malaysia,arroz,81.25,103.98
+Malaysia,soja,0.04,0.02
+Malaysia,nozes,2.9,5.13
+Zimbabwe,suínos,2.65,9.38
+Zimbabwe,aves,4.97,5.34
+Zimbabwe,bovinos,7.37,227.42
+Zimbabwe,caprinos,0.96,33.62
+Zimbabwe,peixes,2.8,4.47
+Zimbabwe,ovos,1.75,1.61
+Zimbabwe,laticínios,31.9,45.44
+Zimbabwe,trigo,31.31,5.97
+Zimbabwe,arroz,10.09,12.91
+Zimbabwe,soja,0.54,0.24
+Zimbabwe,nozes,2.22,3.93
+Guatemala,suínos,4.85,17.17
+Guatemala,aves,16.45,17.67
+Guatemala,bovinos,5.6,172.8
+Guatemala,caprinos,0.23,8.05
+Guatemala,peixes,1.08,1.72
+Guatemala,ovos,14.61,13.42
+Guatemala,laticínios,46.6,66.38
+Guatemala,trigo,35.9,6.85
+Guatemala,arroz,5.66,7.24
+Guatemala,soja,0.32,0.14
+Guatemala,nozes,2.0,3.54
+Uganda,suínos,3.37,11.93
+Uganda,aves,1.51,1.62
+Uganda,bovinos,5.15,158.92
+Uganda,caprinos,1.25,43.77
+Uganda,peixes,12.5,19.96
+Uganda,ovos,0.97,0.89
+Uganda,laticínios,37.27,53.09
+Uganda,trigo,10.14,1.93
+Uganda,arroz,4.64,5.94
+Uganda,soja,0.01,0.0
+Uganda,nozes,3.77,6.67
+Nepal,suínos,0.67,2.37
+Nepal,aves,1.56,1.68
+Nepal,bovinos,7.89,243.47
+Nepal,caprinos,2.1,73.54
+Nepal,peixes,2.17,3.46
+Nepal,ovos,1.42,1.3
+Nepal,laticínios,52.1,74.21
+Nepal,trigo,50.46,9.62
+Nepal,arroz,87.75,112.29
+Nepal,soja,0.01,0.0
+Nepal,nozes,2.42,4.28
+Iran,suínos,0.0,0.0
+Iran,aves,25.38,27.26
+Iran,bovinos,3.58,110.47
+Iran,caprinos,3.69,129.22
+Iran,peixes,9.8,15.65
+Iran,ovos,7.7,7.07
+Iran,laticínios,46.69,66.51
+Iran,trigo,153.31,29.24
+Iran,arroz,29.95,38.33
+Iran,soja,0.0,0.0
+Iran,nozes,12.16,21.52
+Tanzania,suínos,0.32,1.13
+Tanzania,aves,1.84,1.98
+Tanzania,bovinos,6.09,187.92
+Tanzania,caprinos,1.28,44.83
+Tanzania,peixes,5.5,8.78
+Tanzania,ovos,0.58,0.53
+Tanzania,laticínios,40.29,57.39
+Tanzania,trigo,15.94,3.04
+Tanzania,arroz,21.01,26.89
+Tanzania,soja,0.04,0.02
+Tanzania,nozes,5.94,10.51
+Senegal,suínos,0.94,3.33
+Senegal,aves,4.62,4.96
+Senegal,bovinos,5.85,180.52
+Senegal,caprinos,3.19,111.71
+Senegal,peixes,22.94,36.63
+Senegal,ovos,1.63,1.5
+Senegal,laticínios,16.86,24.02
+Senegal,trigo,37.32,7.12
+Senegal,arroz,72.29,92.51
+Senegal,soja,0.0,0.0
+Senegal,nozes,4.03,7.13
+Peru,suínos,3.85,13.63
+Peru,aves,11.72,12.59
+Peru,bovinos,4.69,144.72
+Peru,caprinos,1.0,35.02
+Peru,peixes,15.74,25.13
+Peru,ovos,8.76,8.05
+Peru,laticínios,62.15,88.53
+Peru,trigo,56.12,10.7
+Peru,arroz,48.92,62.6
+Peru,soja,1.59,0.72
+Peru,nozes,0.65,1.15
+Nicaragua,suínos,3.38,11.96
+Nicaragua,aves,21.31,22.89
+Nicaragua,bovinos,4.73,145.96
+Nicaragua,caprinos,0.01,0.35
+Nicaragua,peixes,3.59,5.73
+Nicaragua,ovos,4.9,4.5
+Nicaragua,laticínios,85.16,121.3
+Nicaragua,trigo,28.17,5.37
+Nicaragua,arroz,43.33,55.45
+Nicaragua,soja,0.01,0.0
+Nicaragua,nozes,2.36,4.18
+Vietnam,suínos,35.0,123.88
+Vietnam,aves,12.36,13.28
+Vietnam,bovinos,7.44,229.58
+Vietnam,caprinos,0.14,4.9
+Vietnam,peixes,26.52,42.34
+Vietnam,ovos,3.84,3.53
+Vietnam,laticínios,16.36,23.3
+Vietnam,trigo,10.49,2.0
+Vietnam,arroz,144.56,184.99
+Vietnam,soja,5.75,2.59
+Vietnam,nozes,6.28,11.12
+Ethiopia,suínos,0.02,0.07
+Ethiopia,aves,0.66,0.71
+Ethiopia,bovinos,3.61,111.4
+Ethiopia,caprinos,1.57,54.98
+Ethiopia,peixes,0.24,0.38
+Ethiopia,ovos,0.36,0.33
+Ethiopia,laticínios,44.14,62.87
+Ethiopia,trigo,31.26,5.96
+Ethiopia,arroz,2.25,2.88
+Ethiopia,soja,0.45,0.2
+Ethiopia,nozes,1.21,2.14
+Myanmar,suínos,11.31,40.03
+Myanmar,aves,21.87,23.49
+Myanmar,bovinos,4.94,152.44
+Myanmar,caprinos,0.89,31.17
+Myanmar,peixes,54.26,86.64
+Myanmar,ovos,6.45,5.92
+Myanmar,laticínios,31.48,44.84
+Myanmar,trigo,6.22,1.19
+Myanmar,arroz,132.8,169.94
+Myanmar,soja,0.38,0.17
+Myanmar,nozes,4.5,7.97
+Congo,suínos,2.39,8.46
+Congo,aves,13.02,13.99
+Congo,bovinos,4.35,134.23
+Congo,caprinos,0.4,14.01
+Congo,peixes,26.22,41.86
+Congo,ovos,0.6,0.55
+Congo,laticínios,10.69,15.23
+Congo,trigo,40.07,7.64
+Congo,arroz,16.51,21.13
+Congo,soja,0.0,0.0
+Congo,nozes,3.08,5.45
+Zambia,suínos,1.66,5.88
+Zambia,aves,3.29,3.53
+Zambia,bovinos,4.76,146.88
+Zambia,caprinos,0.68,23.81
+Zambia,peixes,6.2,9.9
+Zambia,ovos,3.32,3.05
+Zambia,laticínios,9.71,13.83
+Zambia,trigo,12.1,2.31
+Zambia,arroz,3.05,3.9
+Zambia,soja,7.3,3.29
+Zambia,nozes,5.04,8.92
+Cameroon,suínos,1.47,5.2
+Cameroon,aves,3.29,3.53
+Cameroon,bovinos,4.17,128.68
+Cameroon,caprinos,1.4,49.03
+Cameroon,peixes,14.71,23.49
+Cameroon,ovos,0.4,0.37
+Cameroon,laticínios,15.27,21.75
+Cameroon,trigo,22.6,4.31
+Cameroon,arroz,23.85,30.52
+Cameroon,soja,0.64,0.29
+Cameroon,nozes,9.29,16.44
+Madagascar,suínos,2.56,9.06
+Madagascar,aves,3.14,3.37
+Madagascar,bovinos,7.51,231.74
+Madagascar,caprinos,0.57,19.96
+Madagascar,peixes,4.41,7.04
+Madagascar,ovos,0.71,0.65
+Madagascar,laticínios,24.84,35.38
+Madagascar,trigo,9.01,1.72
+Madagascar,arroz,102.53,131.21
+Madagascar,soja,0.0,0.0
+Madagascar,nozes,0.35,0.62
+Malawi,suínos,5.45,19.29
+Malawi,aves,1.38,1.48
+Malawi,bovinos,2.35,72.52
+Malawi,caprinos,2.07,72.49
+Malawi,peixes,7.33,11.7
+Malawi,ovos,1.08,0.99
+Malawi,laticínios,7.98,11.37
+Malawi,trigo,11.77,2.24
+Malawi,arroz,4.75,6.08
+Malawi,soja,1.76,0.79
+Malawi,nozes,5.08,8.99
+Guinea,suínos,0.16,0.57
+Guinea,aves,1.83,1.97
+Guinea,bovinos,6.26,193.17
+Guinea,caprinos,1.6,56.03
+Guinea,peixes,9.18,14.66
+Guinea,ovos,1.95,1.79
+Guinea,laticínios,20.62,29.37
+Guinea,trigo,18.55,3.54
+Guinea,arroz,97.12,124.28
+Guinea,soja,0.0,0.0
+Guinea,nozes,4.14,7.33
+Nigeria,suínos,1.47,5.2
+Nigeria,aves,1.73,1.86
+Nigeria,bovinos,2.33,71.9
+Nigeria,caprinos,2.72,95.25
+Nigeria,peixes,16.03,25.59
+Nigeria,ovos,3.46,3.18
+Nigeria,laticínios,7.91,11.27
+Nigeria,trigo,20.82,3.97
+Nigeria,arroz,28.23,36.13
+Nigeria,soja,2.6,1.17
+Nigeria,nozes,6.93,12.27
+Rwanda,suínos,0.76,2.69
+Rwanda,aves,1.34,1.44
+Rwanda,bovinos,2.53,78.07
+Rwanda,caprinos,1.93,67.59
+Rwanda,peixes,3.88,6.2
+Rwanda,ovos,0.16,0.15
+Rwanda,laticínios,7.23,10.3
+Rwanda,trigo,11.34,2.16
+Rwanda,arroz,8.7,11.13
+Rwanda,soja,1.93,0.87
+Rwanda,nozes,0.58,1.03
+Philippines,suínos,18.4,65.13
+Philippines,aves,11.91,12.79
+Philippines,bovinos,4.06,125.28
+Philippines,caprinos,0.56,19.61
+Philippines,peixes,28.51,45.52
+Philippines,ovos,4.02,3.69
+Philippines,laticínios,15.66,22.31
+Philippines,trigo,23.12,4.41
+Philippines,arroz,119.44,152.85
+Philippines,soja,0.03,0.01
+Philippines,nozes,2.08,3.68
+Ghana,suínos,1.36,4.81
+Ghana,aves,8.63,9.27
+Ghana,bovinos,1.09,33.64
+Ghana,caprinos,1.74,60.93
+Ghana,peixes,26.05,41.59
+Ghana,ovos,1.21,1.11
+Ghana,laticínios,9.08,12.93
+Ghana,trigo,14.45,2.76
+Ghana,arroz,32.03,40.99
+Ghana,soja,0.01,0.0
+Ghana,nozes,5.56,9.84
+Togo,suínos,1.57,5.56
+Togo,aves,6.63,7.12
+Togo,bovinos,1.53,47.21
+Togo,caprinos,1.58,55.33
+Togo,peixes,11.69,18.67
+Togo,ovos,0.86,0.79
+Togo,laticínios,7.96,11.34
+Togo,trigo,12.91,2.46
+Togo,arroz,25.99,33.26
+Togo,soja,0.01,0.0
+Togo,nozes,3.59,6.35
+Gambia,suínos,0.18,0.64
+Gambia,aves,2.66,2.86
+Gambia,bovinos,2.16,66.65
+Gambia,caprinos,0.71,24.86
+Gambia,peixes,23.13,36.93
+Gambia,ovos,0.99,0.91
+Gambia,laticínios,45.71,65.11
+Gambia,trigo,37.91,7.23
+Gambia,arroz,61.84,79.14
+Gambia,soja,0.0,0.0
+Gambia,nozes,5.27,9.33
+India,suínos,0.28,0.99
+India,aves,1.88,2.02
+India,bovinos,0.81,24.99
+India,caprinos,0.58,20.31
+India,peixes,4.71,7.52
+India,ovos,2.58,2.37
+India,laticínios,84.5,120.36
+India,trigo,60.56,11.55
+India,arroz,69.49,88.93
+India,soja,0.39,0.18
+India,nozes,1.92,3.4
+Thailand,suínos,13.0,46.01
+Thailand,aves,13.69,14.71
+Thailand,bovinos,2.56,79.0
+Thailand,caprinos,0.05,1.75
+Thailand,peixes,19.45,31.06
+Thailand,ovos,12.35,11.34
+Thailand,laticínios,29.35,41.81
+Thailand,trigo,10.93,2.08
+Thailand,arroz,114.57,146.62
+Thailand,soja,2.13,0.96
+Thailand,nozes,1.5,2.66
+Mozambique,suínos,5.13,18.16
+Mozambique,aves,1.41,1.51
+Mozambique,bovinos,1.04,32.09
+Mozambique,caprinos,0.9,31.52
+Mozambique,peixes,7.74,12.36
+Mozambique,ovos,1.7,1.56
+Mozambique,laticínios,4.79,6.82
+Mozambique,trigo,14.65,2.79
+Mozambique,arroz,23.41,29.96
+Mozambique,soja,0.03,0.01
+Mozambique,nozes,2.61,4.62
+Cambodia,suínos,6.52,23.08
+Cambodia,aves,1.84,1.98
+Cambodia,bovinos,4.85,149.66
+Cambodia,caprinos,0.0,0.0
+Cambodia,peixes,39.59,63.21
+Cambodia,ovos,1.37,1.26
+Cambodia,laticínios,3.47,4.94
+Cambodia,trigo,2.74,0.52
+Cambodia,arroz,159.1,203.6
+Cambodia,soja,4.33,1.95
+Cambodia,nozes,1.25,2.21
+Sierra Leone,suínos,1.22,4.32
+Sierra Leone,aves,4.97,5.34
+Sierra Leone,bovinos,1.99,61.41
+Sierra Leone,caprinos,0.65,22.76
+Sierra Leone,peixes,32.03,51.14
+Sierra Leone,ovos,1.92,1.76
+Sierra Leone,laticínios,7.0,9.97
+Sierra Leone,trigo,8.72,1.66
+Sierra Leone,arroz,103.3,132.19
+Sierra Leone,soja,0.0,0.0
+Sierra Leone,nozes,5.57,9.86
+Sri Lanka,suínos,0.05,0.18
+Sri Lanka,aves,4.96,5.33
+Sri Lanka,bovinos,1.38,42.58
+Sri Lanka,caprinos,0.09,3.15
+Sri Lanka,peixes,24.92,39.79
+Sri Lanka,ovos,4.57,4.2
+Sri Lanka,laticínios,34.98,49.83
+Sri Lanka,trigo,37.01,7.06
+Sri Lanka,arroz,109.72,140.41
+Sri Lanka,soja,0.0,0.0
+Sri Lanka,nozes,1.09,1.93
+Indonesia,suínos,2.98,10.55
+Indonesia,aves,7.5,8.06
+Indonesia,bovinos,2.59,79.92
+Indonesia,caprinos,0.46,16.11
+Indonesia,peixes,25.65,40.95
+Indonesia,ovos,4.88,4.48
+Indonesia,laticínios,14.82,21.11
+Indonesia,trigo,25.45,4.85
+Indonesia,arroz,134.62,172.27
+Indonesia,soja,1.12,0.5
+Indonesia,nozes,4.92,8.71
+Liberia,suínos,4.01,14.19
+Liberia,aves,8.91,9.57
+Liberia,bovinos,0.78,24.07
+Liberia,caprinos,0.48,16.81
+Liberia,peixes,4.13,6.59
+Liberia,ovos,2.05,1.88
+Liberia,laticínios,3.04,4.33
+Liberia,trigo,10.95,2.09
+Liberia,arroz,94.75,121.25
+Liberia,soja,0.63,0.28
+Liberia,nozes,1.31,2.32
+Bangladesh,suínos,0.0,0.0
+Bangladesh,aves,1.4,1.5
+Bangladesh,bovinos,1.28,39.5
+Bangladesh,caprinos,1.33,46.58
+Bangladesh,peixes,18.07,28.85
+Bangladesh,ovos,2.08,1.91
+Bangladesh,laticínios,21.91,31.21
+Bangladesh,trigo,17.47,3.33
+Bangladesh,arroz,171.73,219.76
+Bangladesh,soja,0.61,0.27
+Bangladesh,nozes,0.72,1.27
